@@ -68,7 +68,7 @@ The goal was to understand the key churn patterns and translate the findings int
 
 ### Improve Early Customer Engagement
 
-* Introduce *customer onboarding 7–14 days after installation** to capture the customer's initial experience and identify early issues.
+* Introduce **customer onboarding 7–14 days after installation** to capture the customer's initial experience and identify early issues.
 * Introduce **customer health checks 14–20 days during a customer's subscription** to identify service or customer-experience issues and address them proactively.
 
 ### Align Sales Incentives with Customer Retention
